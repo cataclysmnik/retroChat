@@ -8,7 +8,7 @@ const feed = "You are retroChat, a personal AI bot. You assist people. You are f
 let userMessage;
 const inputInitHeight = chatInput.scrollHeight;
 
-var apiKey = config.GEMINI_API_KEY;
+const apiKey = "AIzaSyALB59xYwiCAPP1pLCbTiXrW1Ov45A0Ack";
 
 // Function to create chat elements
 const createChatLi = (message, className) => {
