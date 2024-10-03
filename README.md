@@ -4,7 +4,7 @@
 ### A simple web interface I put together that simulates a retro AI chatbot. I got inspired to create this project when I saw a concept art like this in a video.
 
 ## Usage:
-Live at 
+Live at [retroChat](https://cataclysmnik.github.io/retroChat/)
 
 ## Technical Details:
 Created using HTML, CSS and JS. This inputs the user input and a fixed prompt (to give the AI some "uniqueness") to Google's Gemini API, and then displays the output here.
