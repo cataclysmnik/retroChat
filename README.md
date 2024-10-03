@@ -11,6 +11,8 @@ Created using HTML, CSS and JS. This inputs the user input and a fixed prompt (t
 
 ## TODO:
 - Make the website more mobile friendly.
+- Add a "boot" animation.
+- Make the text brighter.
 - Make the bot have memory.
 - Add some better "lore".
 
