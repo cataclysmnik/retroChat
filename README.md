@@ -10,9 +10,7 @@ Live at [retroChat](https://cataclysmnik.github.io/retroChat/)
 Created using HTML, CSS and JS. This inputs the user input and a fixed prompt (to give the AI some "uniqueness") to Google's Gemini API, and then displays the output here.
 
 ## TODO:
-- Make the website more mobile friendly.
 - Add a "boot" animation.
-- Make the text brighter.
 - Make the bot have memory.
 - Add some better "lore".
 
